@@ -1,3 +1,11 @@
+# Live Demo:
+https://react-firebase-food-order-app.netlify.app/
+
+# About this project: 
+Here I build a very simple food order app with Firebase. Here I use Firebase as a backend where I store carts data, meals data and users data. 
+
+Hook used: useState, useEffect, useReducer, useContext and useRef
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
